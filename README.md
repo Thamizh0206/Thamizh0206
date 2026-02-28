@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Thamizhvendhan;AI+Systems+Engineer;Generative+AI+%7C+LLM+Architect;Production-Ready+AI+Systems;RAG+%7C+AI+Agents+%7C+Scalable+Backends" />
 </h1>
 
+## 🚀 Space Shooter Contribution Game
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/space-shooter/game.gif" width="700" />
+</p>
 
 # 🧠 Building AI Systems That Ship to Production
 
