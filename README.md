@@ -25,15 +25,10 @@
 
 <p align="center">
   <picture>
-    <!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/github-breakout/breakout-dark.svg">
-    
-    <!-- Light mode -->
     <source media="(prefers-color-scheme: light)" 
       srcset="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/github-breakout/breakout-light.svg">
-    
-    <!-- Fallback -->
     <img alt="Breakout contribution game"
       src="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/github-breakout/breakout-light.svg">
   </picture>
