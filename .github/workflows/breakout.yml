@@ -1,0 +1,33 @@
+name: Generate Breakout Game
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Breakout SVG
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: Thamizh0206
+
+      - name: Commit & Push to github-breakout branch
+        run: |
+          git checkout --orphan github-breakout
+          git rm -rf .
+          mv breakout-light.svg breakout-dark.svg ./
+          git add breakout-light.svg breakout-dark.svg
+          git commit -m "chore: update breakout game"
+          git push origin github-breakout --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
