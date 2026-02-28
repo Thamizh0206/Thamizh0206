@@ -21,6 +21,24 @@
 
 ---
 
+## 🧱 Breakout Contribution Game
+
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/github-breakout/breakout-dark.svg">
+    
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/github-breakout/breakout-light.svg">
+    
+    <!-- Fallback -->
+    <img alt="Breakout contribution game"
+      src="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/github-breakout/breakout-light.svg">
+  </picture>
+</p>
+
 <p align="center">
   <a href="https://github.com/Thamizh0206">
     <img src="https://img.shields.io/github/followers/Thamizh0206?label=Followers&style=for-the-badge&color=blue&logo=github"/>
