@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Thamizhvendhan;AI+Systems+Engineer;Generative+AI+%7C+LLM+Architect;Production-Ready+AI+Systems;RAG+%7C+AI+Agents+%7C+Scalable+Backends" />
 </h1>
 
-## 🚀 Space Shooter Contribution Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/space-shooter/game.gif" width="700" />
-</p>
 
 # 🧠 Building AI Systems That Ship to Production
 
@@ -28,7 +23,7 @@ I focus on **production reliability, system design, and real-world deployment**.
 ---
 
 # ⚙️ Tech Stack
-
+<div align="center">
 ## 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -52,7 +47,7 @@ I focus on **production reliability, system design, and real-world deployment**.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
+</div>
 ---
 ## 👾 Pac-Man Contribution Maze
 
