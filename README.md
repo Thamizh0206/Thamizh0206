@@ -1,16 +1,94 @@
-## Hi there 👋
+<h1 align="center">THAMIZHVENDHAN R</h1>
+<h3 align="center">⚡ AI Systems Engineer | Generative AI | LLM Architect</h3>
 
-<!--
-**Thamizh0206/Thamizh0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Thamizhvendhan;AI+Systems+Engineer;Generative+AI+%7C+LLM+Architect;Production-Ready+AI+Systems;RAG+%7C+AI+Agents+%7C+Scalable+Backends" />
+</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Thamizh0206">
+    <img src="https://img.shields.io/github/followers/Thamizh0206?label=Followers&style=for-the-badge&color=blue&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thamizhvendhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:thamizhvendhan0206@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Thamizh0206&style=for-the-badge&color=brightgreen"/>
+</p>
+
+---
+
+# 🧠 Building AI Systems That Ship to Production
+
+I architect and develop **end-to-end AI systems** that go beyond demos.
+
+🔹 LLM-powered applications  
+🔹 Retrieval-Augmented Generation (RAG)  
+🔹 Agentic AI workflows  
+🔹 Vector databases & semantic search  
+🔹 Backend-integrated AI systems  
+🔹 Scalable, modular architecture  
+
+I focus on **production reliability, system design, and real-world deployment**.
+
+---
+
+# ⚙️ Tech Stack
+
+## 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/PostgreSQL-003B57?style=for-the-badge&logo=postgresql)
+
+---
+
+## 🤖 AI / ML
+![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8E44AD?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_DB-2ECC71?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-1ABC9C?style=for-the-badge)
+
+---
+
+## 🛠 Backend & Infra
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/Thamizh0206">
+    <img src="https://img.shields.io/github/followers/Thamizh0206?label=Follow&style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thamizhvendhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:thamizhvendhan0206@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Thamizh0206&style=for-the-badge&color=brightgreen"/>
+</p>
+
+---
+
+<p align="center">
+⚡ Architecting AI systems that scale.
+</p>
