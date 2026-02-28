@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Thamizhvendhan;AI+Systems+Engineer;Generative+AI+%7C+LLM+Architect;Production-Ready+AI+Systems;RAG+%7C+AI+Agents+%7C+Scalable+Backends" />
 </h1>
 
+---
 
 # 🧠 Building AI Systems That Ship to Production
 
@@ -23,32 +24,38 @@ I focus on **production reliability, system design, and real-world deployment**.
 ---
 
 # ⚙️ Tech Stack
-<div align="center">
-## 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql"/>
-</p>
 
----
+<div align="center">
+
+## 💻 Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql"/>
+
+<br><br>
 
 ## 🤖 AI / ML
-![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-8E44AD?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector_DB-2ECC71?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-1ABC9C?style=for-the-badge)
 
----
+<img src="https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_DB-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-1ABC9C?style=for-the-badge"/>
+
+<br><br>
 
 ## 🛠 Backend & Infra
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
 </div>
+
 ---
+
 ## 👾 Pac-Man Contribution Maze
 
 <p align="center">
