@@ -64,13 +64,7 @@ I focus on **production reliability, system design, and real-world deployment**.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
-# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 🌐 Connect
 
