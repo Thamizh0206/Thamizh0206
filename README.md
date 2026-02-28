@@ -3,7 +3,7 @@
 
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=THAMIZH;AI+Systems+Engineer;Generative+AI+%7C+LLM+Architect;Production-Ready+AI+Systems;RAG+%7C+AI+Agents+%7C+Scalable+Backends" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Thamizhvendhan R;AI+Systems+Engineer;Generative+AI+%7C+LLM+Architect;Production-Ready+AI+Systems;RAG+%7C+AI+Agents+%7C+Scalable+Backends" />
 </h1>
 
 ---
