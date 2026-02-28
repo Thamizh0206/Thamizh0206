@@ -6,18 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Thamizhvendhan;AI+Systems+Engineer;Generative+AI+%7C+LLM+Architect;Production-Ready+AI+Systems;RAG+%7C+AI+Agents+%7C+Scalable+Backends" />
 </h1>
 
-# 👾 Pac-Man Contribution Maze
+## 👾 Pac-Man Contribution Maze
 
 <p align="center">
   <picture>
-    <!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/output/pacman-contribution-graph-dark.svg">
-    
     <source media="(prefers-color-scheme: light)" 
       srcset="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/output/pacman-contribution-graph.svg">
-    
-    <!-- Fallback -->
     <img alt="Pac-Man contribution graph"
       src="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/output/pacman-contribution-graph.svg">
   </picture>
