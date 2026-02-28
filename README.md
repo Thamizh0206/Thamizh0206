@@ -12,6 +12,12 @@
   <img src="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/space-shooter/game.gif" width="700" />
 </p>
 
+## 🏙 3D Contribution Skyline
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/main/profile-3d-contrib/profile-3d-contrib.png" width="800" />
+</p>
+
 # 🧠 Building AI Systems That Ship to Production
 
 I architect and develop **end-to-end AI systems** that go beyond demos.
