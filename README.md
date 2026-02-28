@@ -6,48 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Thamizhvendhan;AI+Systems+Engineer;Generative+AI+%7C+LLM+Architect;Production-Ready+AI+Systems;RAG+%7C+AI+Agents+%7C+Scalable+Backends" />
 </h1>
 
-## 👾 Pac-Man Contribution Maze
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
----
-
-## 🧱 Breakout Contribution Game
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/github-breakout/breakout-dark.svg">
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/github-breakout/breakout-light.svg">
-    <img alt="Breakout contribution game"
-      src="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/github-breakout/breakout-light.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Thamizh0206">
-    <img src="https://img.shields.io/github/followers/Thamizh0206?label=Followers&style=for-the-badge&color=blue&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/thamizhvendhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:thamizhvendhan0206@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Thamizh0206&style=for-the-badge&color=brightgreen"/>
-</p>
-
----
 
 # 🧠 Building AI Systems That Ship to Production
 
@@ -91,7 +50,20 @@ I focus on **production reliability, system design, and real-world deployment**.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
+## 👾 Pac-Man Contribution Maze
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/Thamizh0206/Thamizh0206/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
 
 # 🌐 Connect
 
